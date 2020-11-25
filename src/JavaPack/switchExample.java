@@ -3,7 +3,7 @@ package JavaPack;
 public class switchExample {
 
 	public static void main(String[] args) {
-		int weekday = 3;
+		int weekday = 6;
 		switch(weekday){
 		case 0 : System.out.println("Sunday"); break;
 		case 1 : System.out.println("Monday");break;
