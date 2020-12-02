@@ -2,12 +2,15 @@ package JavaOOPsPack;
 public class Employee{
 	 
 	
-	int empid;
+		int empid;
 	 String empname;
 	 String company;
+	 
 	 public Employee(){
 		  System.out.println("Employee - Default Constructor");
 		}
+	 
+	 
 	 public Employee(int empid, String empname)
 	 {
 		 System.out.println("Employee Constructor - 2 parameters");

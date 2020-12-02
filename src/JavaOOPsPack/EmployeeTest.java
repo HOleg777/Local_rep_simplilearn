@@ -23,7 +23,9 @@ public class EmployeeTest {
 	   Employee empobj5 =new Employee(104,"Rohit","Simplilearn");
 	   empobj5.displayEmpRecord();
 	   
-	   
+	   Employee empobj6 = new Employee(101,"Anindita","Simplilearn");
+	   empobj6.displayEmpRecord();
+
 	}
 
 
